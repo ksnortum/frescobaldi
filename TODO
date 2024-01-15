@@ -41,7 +41,7 @@ TODO and “urgent” wishes
 
 - editing via Music View or SVG view:
   * relevant context menu on right-clicking object
-  * drag an object to e.g. create an \override #'extra-offset command
+  * drag an object to e.g. create an \override extra-offset command
   * drag an object to reattach it to a different anchor
 
 - Table of Contents support in qpopplerview
